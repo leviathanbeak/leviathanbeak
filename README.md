@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I like distributed systems and protocols, databases and systems programming.
+I like distributed systems and protocols, database internals and systems programming.
 
 I use Zig and Rust.
 
